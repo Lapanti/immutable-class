@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "target": "es3",
+        "noImplicitAny": true
+    }, "files": [
+        "src/**/*.ts"
+    ], "exclude": [
+        "src/**/*.spec.ts"
+    ]
+}
